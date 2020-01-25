@@ -1,2 +1,3 @@
-# uicdb.github.io
-my website
+<script>
+  alert(6666)
+  </script>
