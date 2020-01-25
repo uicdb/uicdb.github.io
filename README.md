@@ -1,3 +1,1 @@
-<script>
-  alert(6666)
-  </script>
+又是一个安静的晚上
